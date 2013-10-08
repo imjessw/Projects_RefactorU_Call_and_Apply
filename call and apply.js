@@ -28,3 +28,12 @@ sayHello.apply(person1)
 greetOneAnother.apply(person2, personList);
 
 
+
+
+// $(".toggle").on(click, function(){
+// 	var self= this;
+// 	$(this). hide();
+// 	var container=$(this).closest(".form-container");
+// 	var form=$("<form>");
+// 	var textinput=
+// }
